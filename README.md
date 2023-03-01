@@ -32,7 +32,7 @@ Host: localhost:8080
 HTTP/1.1 200 OK
 Content-Type: application/json
 
-81.00
+84.30
 
 ```
 ### Configuration
