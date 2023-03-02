@@ -24,7 +24,7 @@ To calculate the net price, you can send a GET request to the `/netprice` endpoi
 #### Example request:
 
 ```http request
-GET /netPrice?grossPrice=100&countryIso=DE HTTP/1.1
+GET /netprice?grossPrice=100&countryIso=DE HTTP/1.1
 Host: localhost:8080
 ```
 #### Example response:
